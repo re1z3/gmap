@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "742752588314",
+    "firebase_url": "https://shining-chain-268318.firebaseio.com",
+    "project_id": "shining-chain-268318",
+    "storage_bucket": "shining-chain-268318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742752588314:android:c49280fd4e5c6999e737a3",
+        "android_client_info": {
+          "package_name": "com.example.locationfinder_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742752588314-ie3tqfdn1qt3l73v2i0fkcdeph1tb7e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ4m488u_ohonjJ6hUMYQAs0Z_uAaCKZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742752588314-ie3tqfdn1qt3l73v2i0fkcdeph1tb7e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
